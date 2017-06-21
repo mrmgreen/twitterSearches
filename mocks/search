@@ -1,0 +1,3811 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Jun 16 15:50:05 +0000 2017",
+            "id": 875742282774978561,
+            "id_str": "875742282774978561",
+            "text": "RT @D__Gilbertson: #reactjs #webdev tip - you can browse your redux store by selecting the correct node and typing \"$r.store.getState()\" (g…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            19,
+                            27
+                        ]
+                    },
+                    {
+                        "text": "webdev",
+                        "indices": [
+                            28,
+                            35
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "D__Gilbertson",
+                        "name": "David Gilbertson",
+                        "id": 230869428,
+                        "id_str": "230869428",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://ditisanton.nl\" rel=\"nofollow\">react-bot</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 60030063,
+                "id_str": "60030063",
+                "name": "Anton de Regt",
+                "screen_name": "antonderegt",
+                "location": "Amsterdam, Nederland",
+                "description": "#100DaysOfCode || webdeveloper || JS || #FCC || Check out my portfolio at ditisanton.nl\nRetweets are done by a bot, the rest is real",
+                "url": "https://t.co/eOJcBxNQGQ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eOJcBxNQGQ",
+                                "expanded_url": "https://ditisanton.nl/",
+                                "display_url": "ditisanton.nl",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 303,
+                "friends_count": 249,
+                "listed_count": 27,
+                "created_at": "Sat Jul 25 10:22:27 +0000 2009",
+                "favourites_count": 2336,
+                "utc_offset": 7200,
+                "time_zone": "Amsterdam",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2214,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/672884894851203073/7qHuoUho_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/672884894851203073/7qHuoUho_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/60030063/1449263705",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jun 15 22:54:04 +0000 2017",
+                "id": 875486594802700288,
+                "id_str": "875486594802700288",
+                "text": "#reactjs #webdev tip - you can browse your redux store by selecting the correct node and typing \"$r.store.getState(… https://t.co/DmRlDb0F6i",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "reactjs",
+                            "indices": [
+                                0,
+                                8
+                            ]
+                        },
+                        {
+                            "text": "webdev",
+                            "indices": [
+                                9,
+                                16
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/DmRlDb0F6i",
+                            "expanded_url": "https://twitter.com/i/web/status/875486594802700288",
+                            "display_url": "twitter.com/i/web/status/8…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 230869428,
+                    "id_str": "230869428",
+                    "name": "David Gilbertson",
+                    "screen_name": "D__Gilbertson",
+                    "location": "Sydney, Australia",
+                    "description": "Web developer",
+                    "url": "https://t.co/eBP0TM77OX",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/eBP0TM77OX",
+                                    "expanded_url": "http://malla.io",
+                                    "display_url": "malla.io",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1204,
+                    "friends_count": 38,
+                    "listed_count": 92,
+                    "created_at": "Sun Dec 26 23:19:44 +0000 2010",
+                    "favourites_count": 356,
+                    "utc_offset": 36000,
+                    "time_zone": "Sydney",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 265,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C6E2EE",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/3322233898/2dd12ef8e58219ec0484a1013cce648c_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3322233898/2dd12ef8e58219ec0484a1013cce648c_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/230869428/1493884799",
+                    "profile_link_color": "1F98C7",
+                    "profile_sidebar_border_color": "C6E2EE",
+                    "profile_sidebar_fill_color": "DAECF4",
+                    "profile_text_color": "663B12",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 6,
+                "favorite_count": 10,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:48:34 +0000 2017",
+            "id": 875741901541998593,
+            "id_str": "875741901541998593",
+            "text": "RT @WWCodeATX: Love these awesome #reactjs meetup ladies! We had a great time talking Tract routing tonight!! https://t.co/Rl8EPRGIet",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            34,
+                            42
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "WWCodeATX",
+                        "name": "Women Who Code ATX",
+                        "id": 1711047840,
+                        "id_str": "1711047840",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 875155469915926528,
+                        "id_str": "875155469915926528",
+                        "indices": [
+                            110,
+                            133
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                        "url": "https://t.co/Rl8EPRGIet",
+                        "display_url": "pic.twitter.com/Rl8EPRGIet",
+                        "expanded_url": "https://twitter.com/WWCodeATX/status/875155546902589440/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1280,
+                                "h": 960,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 875155546902589440,
+                        "source_status_id_str": "875155546902589440",
+                        "source_user_id": 1711047840,
+                        "source_user_id_str": "1711047840"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 875155469915926528,
+                        "id_str": "875155469915926528",
+                        "indices": [
+                            110,
+                            133
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                        "url": "https://t.co/Rl8EPRGIet",
+                        "display_url": "pic.twitter.com/Rl8EPRGIet",
+                        "expanded_url": "https://twitter.com/WWCodeATX/status/875155546902589440/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1280,
+                                "h": 960,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 875155546902589440,
+                        "source_status_id_str": "875155546902589440",
+                        "source_user_id": 1711047840,
+                        "source_user_id_str": "1711047840"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 361406684,
+                "id_str": "361406684",
+                "name": "TechnologyNavigators",
+                "screen_name": "Tech_Nav",
+                "location": "Austin, Texas",
+                "description": "A tech staffing firm organically grown in Austin, Texas. We're in the business of opening doors and creating a future for both people and business, since 1999.",
+                "url": "http://t.co/wbcuYLzUF0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/wbcuYLzUF0",
+                                "expanded_url": "http://www.technologynavigators.com",
+                                "display_url": "technologynavigators.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 300,
+                "friends_count": 837,
+                "listed_count": 53,
+                "created_at": "Wed Aug 24 18:53:30 +0000 2011",
+                "favourites_count": 307,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1187,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660833871/15fb2d0b4bc8104e2396921aa5662066_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660833871/15fb2d0b4bc8104e2396921aa5662066_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/361406684/1399494488",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jun 15 00:58:36 +0000 2017",
+                "id": 875155546902589440,
+                "id_str": "875155546902589440",
+                "text": "Love these awesome #reactjs meetup ladies! We had a great time talking Tract routing tonight!! https://t.co/Rl8EPRGIet",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "reactjs",
+                            "indices": [
+                                19,
+                                27
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 875155469915926528,
+                            "id_str": "875155469915926528",
+                            "indices": [
+                                95,
+                                118
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                            "url": "https://t.co/Rl8EPRGIet",
+                            "display_url": "pic.twitter.com/Rl8EPRGIet",
+                            "expanded_url": "https://twitter.com/WWCodeATX/status/875155546902589440/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "h": 960,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 875155469915926528,
+                            "id_str": "875155469915926528",
+                            "indices": [
+                                95,
+                                118
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DCUtQ1uUMAAlXxT.jpg",
+                            "url": "https://t.co/Rl8EPRGIet",
+                            "display_url": "pic.twitter.com/Rl8EPRGIet",
+                            "expanded_url": "https://twitter.com/WWCodeATX/status/875155546902589440/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "h": 960,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1711047840,
+                    "id_str": "1711047840",
+                    "name": "Women Who Code ATX",
+                    "screen_name": "WWCodeATX",
+                    "location": "Austin, TX",
+                    "description": "Current and aspiring coders: we meet weekly for hack nights, lightning talks, networking. Come work on your code skills in a friendly environment! #WWCode",
+                    "url": "https://t.co/wq57q5Bgrr",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wq57q5Bgrr",
+                                    "expanded_url": "http://www.meetup.com/Women-Who-Code-Austin/",
+                                    "display_url": "meetup.com/Women-Who-Code…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3309,
+                    "friends_count": 907,
+                    "listed_count": 574,
+                    "created_at": "Thu Aug 29 21:54:16 +0000 2013",
+                    "favourites_count": 2171,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 10992,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "372F66",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000063451088/708f495dee2a80092dca42ad65ebb27a.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000063451088/708f495dee2a80092dca42ad65ebb27a.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/687762954435969024/CCnuU1Aw_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/687762954435969024/CCnuU1Aw_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711047840/1452456553",
+                    "profile_link_color": "00ABD0",
+                    "profile_sidebar_border_color": "DDEEF6",
+                    "profile_sidebar_fill_color": "333333",
+                    "profile_text_color": "C0DEED",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 7,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:47:02 +0000 2017",
+            "id": 875741514437193728,
+            "id_str": "875741514437193728",
+            "text": "RT @decoupleddays: Call for papers is open! Submit a Decoupled Drupal session today: https://t.co/CXhmtzyAEr #drupal #javascript #Angular #…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "drupal",
+                        "indices": [
+                            109,
+                            116
+                        ]
+                    },
+                    {
+                        "text": "javascript",
+                        "indices": [
+                            117,
+                            128
+                        ]
+                    },
+                    {
+                        "text": "Angular",
+                        "indices": [
+                            129,
+                            137
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "decoupleddays",
+                        "name": "Decoupled Dev Days",
+                        "id": 863151382769131520,
+                        "id_str": "863151382769131520",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/CXhmtzyAEr",
+                        "expanded_url": "http://bit.ly/2s6j1pD",
+                        "display_url": "bit.ly/2s6j1pD",
+                        "indices": [
+                            85,
+                            108
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14271399,
+                "id_str": "14271399",
+                "name": "Bob Kepford",
+                "screen_name": "kepford",
+                "location": "Caruthers, CA",
+                "description": "I bend Drupal to my will for @mediacurrent & publish a weekly Drupal newsletter [http://t.co/PGBugGZbvt]",
+                "url": "http://t.co/UiaB80HuMl",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UiaB80HuMl",
+                                "expanded_url": "http://theweeklydrop.com",
+                                "display_url": "theweeklydrop.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/PGBugGZbvt",
+                                "expanded_url": "http://theweeklydrop.com",
+                                "display_url": "theweeklydrop.com",
+                                "indices": [
+                                    81,
+                                    103
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1347,
+                "friends_count": 608,
+                "listed_count": 136,
+                "created_at": "Tue Apr 01 01:58:32 +0000 2008",
+                "favourites_count": 1519,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 18824,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "341F11",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3631407/logo.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3631407/logo.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1429397497/profile-5by5-twitter_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429397497/profile-5by5-twitter_normal.jpg",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "919190",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jun 15 21:29:06 +0000 2017",
+                "id": 875465211112603648,
+                "id_str": "875465211112603648",
+                "text": "Call for papers is open! Submit a Decoupled Drupal session today: https://t.co/CXhmtzyAEr #drupal #javascript #Angular #emberjs #reactjs",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "drupal",
+                            "indices": [
+                                90,
+                                97
+                            ]
+                        },
+                        {
+                            "text": "javascript",
+                            "indices": [
+                                98,
+                                109
+                            ]
+                        },
+                        {
+                            "text": "Angular",
+                            "indices": [
+                                110,
+                                118
+                            ]
+                        },
+                        {
+                            "text": "emberjs",
+                            "indices": [
+                                119,
+                                127
+                            ]
+                        },
+                        {
+                            "text": "reactjs",
+                            "indices": [
+                                128,
+                                136
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/CXhmtzyAEr",
+                            "expanded_url": "http://bit.ly/2s6j1pD",
+                            "display_url": "bit.ly/2s6j1pD",
+                            "indices": [
+                                66,
+                                89
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 863151382769131520,
+                    "id_str": "863151382769131520",
+                    "name": "Decoupled Dev Days",
+                    "screen_name": "decoupleddays",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 93,
+                    "friends_count": 35,
+                    "listed_count": 1,
+                    "created_at": "Fri May 12 21:58:21 +0000 2017",
+                    "favourites_count": 1,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 6,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/874046205927358464/Fxy5mWqf_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874046205927358464/Fxy5mWqf_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 18,
+                "favorite_count": 22,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 18,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:44:35 +0000 2017",
+            "id": 875740897266335747,
+            "id_str": "875740897266335747",
+            "text": "Thanks for coming out for our intro to @GraphQL with @reactjs yesterday! See you in July. https://t.co/97s3Dd49FS",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "GraphQL",
+                        "name": "GraphQL",
+                        "id": 2963091971,
+                        "id_str": "2963091971",
+                        "indices": [
+                            39,
+                            47
+                        ]
+                    },
+                    {
+                        "screen_name": "reactjs",
+                        "name": "React",
+                        "id": 1566463268,
+                        "id_str": "1566463268",
+                        "indices": [
+                            53,
+                            61
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 875739754582740992,
+                        "id_str": "875739754582740992",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCdAqruXkAAT4rv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCdAqruXkAAT4rv.jpg",
+                        "url": "https://t.co/97s3Dd49FS",
+                        "display_url": "pic.twitter.com/97s3Dd49FS",
+                        "expanded_url": "https://twitter.com/ReactOrlando/status/875740897266335747/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 1031,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1759,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 584,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 875739754582740992,
+                        "id_str": "875739754582740992",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCdAqruXkAAT4rv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCdAqruXkAAT4rv.jpg",
+                        "url": "https://t.co/97s3Dd49FS",
+                        "display_url": "pic.twitter.com/97s3Dd49FS",
+                        "expanded_url": "https://twitter.com/ReactOrlando/status/875740897266335747/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 1031,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1759,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 584,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    },
+                    {
+                        "id": 875739787461894145,
+                        "id_str": "875739787461894145",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCdAsmNXoAEVqNH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCdAsmNXoAEVqNH.jpg",
+                        "url": "https://t.co/97s3Dd49FS",
+                        "display_url": "pic.twitter.com/97s3Dd49FS",
+                        "expanded_url": "https://twitter.com/ReactOrlando/status/875740897266335747/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1134,
+                                "h": 860,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 516,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1134,
+                                "h": 860,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 875739787340259330,
+                        "id_str": "875739787340259330",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCdAslwXoAIFFb5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCdAslwXoAIFFb5.jpg",
+                        "url": "https://t.co/97s3Dd49FS",
+                        "display_url": "pic.twitter.com/97s3Dd49FS",
+                        "expanded_url": "https://twitter.com/ReactOrlando/status/875740897266335747/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1134,
+                                "h": 558,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1134,
+                                "h": 558,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 335,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 789097142744940544,
+                "id_str": "789097142744940544",
+                "name": "React Orlando",
+                "screen_name": "ReactOrlando",
+                "location": "Orlando, FL",
+                "description": "A monthly meetup to dive into @reactjs and @reactnative - open to all, from beginners to experts. Hosted by @philosohacker and @andrewdushane.",
+                "url": "https://t.co/Xn0SPZab7w",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xn0SPZab7w",
+                                "expanded_url": "https://www.meetup.com/React-Orlando/",
+                                "display_url": "meetup.com/React-Orlando/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 172,
+                "friends_count": 438,
+                "listed_count": 11,
+                "created_at": "Thu Oct 20 13:33:14 +0000 2016",
+                "favourites_count": 125,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 75,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/789114447986065408/Eay5uCgj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/789114447986065408/Eay5uCgj_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "55b4f9e5c516e0b6",
+                "url": "https://api.twitter.com/1.1/geo/id/55b4f9e5c516e0b6.json",
+                "place_type": "city",
+                "name": "Orlando",
+                "full_name": "Orlando, FL",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -81.507905,
+                                28.3882177
+                            ],
+                            [
+                                -81.2276403,
+                                28.3882177
+                            ],
+                            [
+                                -81.2276403,
+                                28.615139
+                            ],
+                            [
+                                -81.507905,
+                                28.615139
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:43:13 +0000 2017",
+            "id": 875740555791147008,
+            "id_str": "875740555791147008",
+            "text": "WIP: React Progress Bar  via @CodePen \nhttps://t.co/abdrDU5o8L\n#reactjs #javascript",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            63,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "javascript",
+                        "indices": [
+                            72,
+                            83
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CodePen",
+                        "name": "CodePen.IO",
+                        "id": 517021184,
+                        "id_str": "517021184",
+                        "indices": [
+                            29,
+                            37
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/abdrDU5o8L",
+                        "expanded_url": "https://codepen.io/iheartkode/full/OgWLXj/",
+                        "display_url": "codepen.io/iheartkode/ful…",
+                        "indices": [
+                            39,
+                            62
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2269531860,
+                "id_str": "2269531860",
+                "name": "Mark Howard",
+                "screen_name": "iheartkode",
+                "location": "Earth, Milky Way",
+                "description": "I like to code.",
+                "url": "https://t.co/bEDFu9xUDg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/bEDFu9xUDg",
+                                "expanded_url": "http://iheartkode.github.io/",
+                                "display_url": "iheartkode.github.io",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1336,
+                "friends_count": 725,
+                "listed_count": 156,
+                "created_at": "Mon Dec 30 22:59:20 +0000 2013",
+                "favourites_count": 7900,
+                "utc_offset": -25200,
+                "time_zone": "Arizona",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2371,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "333333",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568939571530833920/0pcfAKnd.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568939571530833920/0pcfAKnd.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/779757818874388480/NpLUTdD__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/779757818874388480/NpLUTdD__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2269531860/1474743757",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:42:51 +0000 2017",
+            "id": 875740463822667780,
+            "id_str": "875740463822667780",
+            "text": "RT @bitandbang: @wonderboymusic @reactjs @GraphQL That is *awesome* - interested in the how/why for both. 🤔\n\nYou should connect with @dshaw…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bitandbang",
+                        "name": "Tierney Cyren",
+                        "id": 622960227,
+                        "id_str": "622960227",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "wonderboymusic",
+                        "name": "Scott Taylor ⛵️",
+                        "id": 15473031,
+                        "id_str": "15473031",
+                        "indices": [
+                            16,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "reactjs",
+                        "name": "React",
+                        "id": 1566463268,
+                        "id_str": "1566463268",
+                        "indices": [
+                            32,
+                            40
+                        ]
+                    },
+                    {
+                        "screen_name": "GraphQL",
+                        "name": "GraphQL",
+                        "id": 2963091971,
+                        "id_str": "2963091971",
+                        "indices": [
+                            41,
+                            49
+                        ]
+                    },
+                    {
+                        "screen_name": "dshaw",
+                        "name": "Dan Shaw",
+                        "id": 806757,
+                        "id_str": "806757",
+                        "indices": [
+                            133,
+                            139
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://graphql-world.com\" rel=\"nofollow\">GraphQL World</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 836703346870239232,
+                "id_str": "836703346870239232",
+                "name": "GraphQL World",
+                "screen_name": "GraphQLWorld",
+                "location": "San Francisco, CA",
+                "description": "Welcome to the GraphQL Community",
+                "url": "https://t.co/MgyFuLxlOW",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/MgyFuLxlOW",
+                                "expanded_url": "https://graphql-world.com",
+                                "display_url": "graphql-world.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 108,
+                "friends_count": 27,
+                "listed_count": 3,
+                "created_at": "Tue Feb 28 22:23:17 +0000 2017",
+                "favourites_count": 1880,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 593,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/837488401917984768/5-vKmbPn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/837488401917984768/5-vKmbPn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/836703346870239232/1494396027",
+                "profile_link_color": "E535AB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 16 15:34:25 +0000 2017",
+                "id": 875738340032729089,
+                "id_str": "875738340032729089",
+                "text": "@wonderboymusic @reactjs @GraphQL That is *awesome* - interested in the how/why for both. 🤔\n\nYou should connect wit… https://t.co/H7x8KHQHuj",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "wonderboymusic",
+                            "name": "Scott Taylor ⛵️",
+                            "id": 15473031,
+                            "id_str": "15473031",
+                            "indices": [
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "screen_name": "reactjs",
+                            "name": "React",
+                            "id": 1566463268,
+                            "id_str": "1566463268",
+                            "indices": [
+                                16,
+                                24
+                            ]
+                        },
+                        {
+                            "screen_name": "GraphQL",
+                            "name": "GraphQL",
+                            "id": 2963091971,
+                            "id_str": "2963091971",
+                            "indices": [
+                                25,
+                                33
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/H7x8KHQHuj",
+                            "expanded_url": "https://twitter.com/i/web/status/875738340032729089",
+                            "display_url": "twitter.com/i/web/status/8…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": 875006245190684673,
+                "in_reply_to_status_id_str": "875006245190684673",
+                "in_reply_to_user_id": 15473031,
+                "in_reply_to_user_id_str": "15473031",
+                "in_reply_to_screen_name": "wonderboymusic",
+                "user": {
+                    "id": 622960227,
+                    "id_str": "622960227",
+                    "name": "Tierney Cyren",
+                    "screen_name": "bitandbang",
+                    "location": "Little Falls, NY, USA",
+                    "description": "⬡.js - Developer Advocate at @NodeSource. Evangelism + Website Working Groups for @nodejs. @pacabites, my boo. Want to talk? Happy to DM. ❤️",
+                    "url": "https://t.co/nPKMojM1Ev",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/nPKMojM1Ev",
+                                    "expanded_url": "http://bnb.im",
+                                    "display_url": "bnb.im",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 659,
+                    "friends_count": 277,
+                    "listed_count": 91,
+                    "created_at": "Sat Jun 30 14:57:31 +0000 2012",
+                    "favourites_count": 6608,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 5980,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FA743E",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607281397322137600/DmrRZtK3.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607281397322137600/DmrRZtK3.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/814909403937705984/bGG4UIbD_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/814909403937705984/bGG4UIbD_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/622960227/1479595892",
+                    "profile_link_color": "5AC878",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:41:12 +0000 2017",
+            "id": 875740047970009088,
+            "id_str": "875740047970009088",
+            "text": "Front-End Weekly Digest on #CSS, #HTML, JavaScript: https://t.co/0q4U6fM6my\n\n#zfort #zdigest #webdev #js #webdev… https://t.co/gLR73hKfd4",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CSS",
+                        "indices": [
+                            27,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "HTML",
+                        "indices": [
+                            33,
+                            38
+                        ]
+                    },
+                    {
+                        "text": "zfort",
+                        "indices": [
+                            77,
+                            83
+                        ]
+                    },
+                    {
+                        "text": "zdigest",
+                        "indices": [
+                            84,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "webdev",
+                        "indices": [
+                            93,
+                            100
+                        ]
+                    },
+                    {
+                        "text": "js",
+                        "indices": [
+                            101,
+                            104
+                        ]
+                    },
+                    {
+                        "text": "webdev",
+                        "indices": [
+                            105,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0q4U6fM6my",
+                        "expanded_url": "https://goo.gl/l8Z4Kx",
+                        "display_url": "goo.gl/l8Z4Kx",
+                        "indices": [
+                            52,
+                            75
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/gLR73hKfd4",
+                        "expanded_url": "https://twitter.com/i/web/status/875740047970009088",
+                        "display_url": "twitter.com/i/web/status/8…",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 160505828,
+                "id_str": "160505828",
+                "name": "Zfort Group",
+                "screen_name": "zfort",
+                "location": "Kharkov, Ukraine, Europe",
+                "description": "We are a top Ukrainian IT Service Provider delivering outstanding solutions for global Digital Agencies, Product Owners, Startups & Enterprises since 2000.",
+                "url": "http://t.co/bUBTlAxknh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/bUBTlAxknh",
+                                "expanded_url": "http://www.zfort.com",
+                                "display_url": "zfort.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3361,
+                "friends_count": 0,
+                "listed_count": 132,
+                "created_at": "Mon Jun 28 10:45:28 +0000 2010",
+                "favourites_count": 79,
+                "utc_offset": 10800,
+                "time_zone": "Kyiv",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3588,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/837224123/6b41ee3a6410c8a8a22e10e27bab3cee.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/837224123/6b41ee3a6410c8a8a22e10e27bab3cee.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/661918468304801792/4c0aa8ws_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/661918468304801792/4c0aa8ws_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/160505828/1457717497",
+                "profile_link_color": "006699",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:41:01 +0000 2017",
+            "id": 875740001136508928,
+            "id_str": "875740001136508928",
+            "text": "RT @palashv2: When the final user tests the app.. 😱\n\n#100daysofcode #javascript #reactjs #angularjs #vuejs #nodejs #webdev https://t.co/UwS…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "100daysofcode",
+                        "indices": [
+                            53,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "javascript",
+                        "indices": [
+                            68,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            80,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "angularjs",
+                        "indices": [
+                            89,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "vuejs",
+                        "indices": [
+                            100,
+                            106
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            107,
+                            114
+                        ]
+                    },
+                    {
+                        "text": "webdev",
+                        "indices": [
+                            115,
+                            122
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "palashv2",
+                        "name": "Palash Mondal",
+                        "id": 1113570067,
+                        "id_str": "1113570067",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://quotedian.appspot.com/\" rel=\"nofollow\">Quotedian</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2937296357,
+                "id_str": "2937296357",
+                "name": "Quotedian",
+                "screen_name": "quotedian",
+                "location": "",
+                "description": "Observer and commentator on news, tech, quotes and more.  Occasionally snarky always true.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4629,
+                "friends_count": 809,
+                "listed_count": 4772,
+                "created_at": "Mon Dec 22 18:29:58 +0000 2014",
+                "favourites_count": 24,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 86115,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/547111029373562880/n8f8w9ZZ_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/547111029373562880/n8f8w9ZZ_normal.png",
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 28 05:13:35 +0000 2017",
+                "id": 868696734850875393,
+                "id_str": "868696734850875393",
+                "text": "When the final user tests the app.. 😱\n\n#100daysofcode #javascript #reactjs #angularjs #vuejs #nodejs #webdev https://t.co/UwSvrNfGpo",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "100daysofcode",
+                            "indices": [
+                                39,
+                                53
+                            ]
+                        },
+                        {
+                            "text": "javascript",
+                            "indices": [
+                                54,
+                                65
+                            ]
+                        },
+                        {
+                            "text": "reactjs",
+                            "indices": [
+                                66,
+                                74
+                            ]
+                        },
+                        {
+                            "text": "angularjs",
+                            "indices": [
+                                75,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "vuejs",
+                            "indices": [
+                                86,
+                                92
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                93,
+                                100
+                            ]
+                        },
+                        {
+                            "text": "webdev",
+                            "indices": [
+                                101,
+                                108
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 868696332264849408,
+                            "id_str": "868696332264849408",
+                            "indices": [
+                                109,
+                                132
+                            ],
+                            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DA46ti5UwAAphOK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DA46ti5UwAAphOK.jpg",
+                            "url": "https://t.co/UwSvrNfGpo",
+                            "display_url": "pic.twitter.com/UwSvrNfGpo",
+                            "expanded_url": "https://twitter.com/palashv2/status/868696734850875393/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 296,
+                                    "h": 350,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 296,
+                                    "h": 350,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 296,
+                                    "h": 350,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 868696332264849408,
+                            "id_str": "868696332264849408",
+                            "indices": [
+                                109,
+                                132
+                            ],
+                            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DA46ti5UwAAphOK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DA46ti5UwAAphOK.jpg",
+                            "url": "https://t.co/UwSvrNfGpo",
+                            "display_url": "pic.twitter.com/UwSvrNfGpo",
+                            "expanded_url": "https://twitter.com/palashv2/status/868696734850875393/photo/1",
+                            "type": "animated_gif",
+                            "sizes": {
+                                "medium": {
+                                    "w": 296,
+                                    "h": 350,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 296,
+                                    "h": 350,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 296,
+                                    "h": 350,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    148,
+                                    175
+                                ],
+                                "variants": [
+                                    {
+                                        "bitrate": 0,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/tweet_video/DA46ti5UwAAphOK.mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1113570067,
+                    "id_str": "1113570067",
+                    "name": "Palash Mondal",
+                    "screen_name": "palashv2",
+                    "location": "",
+                    "description": "Front-end developer  ● MCTS  ● Learning - Node with @WesBos https://t.co/XevQOJNA2J 💻",
+                    "url": "https://t.co/9k2NnAxzoE",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9k2NnAxzoE",
+                                    "expanded_url": "http://jquerytipsntricks.wordpress.com/",
+                                    "display_url": "jquerytipsntricks.wordpress.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/XevQOJNA2J",
+                                    "expanded_url": "https://learnnode.com/",
+                                    "display_url": "learnnode.com",
+                                    "indices": [
+                                        60,
+                                        83
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1701,
+                    "friends_count": 2857,
+                    "listed_count": 96,
+                    "created_at": "Wed Jan 23 05:45:32 +0000 2013",
+                    "favourites_count": 7151,
+                    "utc_offset": -25200,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3761,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021371713/2226bb4487c01b95d497c86476165361.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021371713/2226bb4487c01b95d497c86476165361.jpeg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/839094787886166017/UEyRQYhj_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/839094787886166017/UEyRQYhj_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113570067/1496906149",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "C0DFEC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 103,
+                "favorite_count": 139,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 103,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:39:25 +0000 2017",
+            "id": 875739600286887936,
+            "id_str": "875739600286887936",
+            "text": "RT @techjini: What Are #Angularjs Services https://t.co/J4sLwkaRAF\n\n#nodejs #javascript #coding #vuejs #appdev #angular #webdev #reactjs #e…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Angularjs",
+                        "indices": [
+                            23,
+                            33
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            68,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "javascript",
+                        "indices": [
+                            76,
+                            87
+                        ]
+                    },
+                    {
+                        "text": "coding",
+                        "indices": [
+                            88,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "vuejs",
+                        "indices": [
+                            96,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "appdev",
+                        "indices": [
+                            103,
+                            110
+                        ]
+                    },
+                    {
+                        "text": "angular",
+                        "indices": [
+                            111,
+                            119
+                        ]
+                    },
+                    {
+                        "text": "webdev",
+                        "indices": [
+                            120,
+                            127
+                        ]
+                    },
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            128,
+                            136
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "techjini",
+                        "name": "TechJini",
+                        "id": 70063158,
+                        "id_str": "70063158",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/J4sLwkaRAF",
+                        "expanded_url": "http://snip.ly/0aet4",
+                        "display_url": "snip.ly/0aet4",
+                        "indices": [
+                            43,
+                            66
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.samfox.me/\" rel=\"nofollow\">Sam Fox Twitter Bot</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 799999773818363905,
+                "id_str": "799999773818363905",
+                "name": "Sam_Fox_Bot",
+                "screen_name": "SamFoxBot",
+                "location": "Peterborough, England",
+                "description": "A Twitter Bot doing interesting things on Twitter, such as re-tweeting tweets, auto replying to tweets or adding users to Twitter lists!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 150,
+                "friends_count": 0,
+                "listed_count": 403,
+                "created_at": "Sat Nov 19 15:36:24 +0000 2016",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4849,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/800013231062450176/mQJ0js5b_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/800013231062450176/mQJ0js5b_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/799999773818363905/1479573194",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 16 14:50:07 +0000 2017",
+                "id": 875727190691901440,
+                "id_str": "875727190691901440",
+                "text": "What Are #Angularjs Services https://t.co/J4sLwkaRAF\n\n#nodejs #javascript #coding #vuejs #appdev #angular #webdev… https://t.co/TSRLxbdiux",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Angularjs",
+                            "indices": [
+                                9,
+                                19
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                54,
+                                61
+                            ]
+                        },
+                        {
+                            "text": "javascript",
+                            "indices": [
+                                62,
+                                73
+                            ]
+                        },
+                        {
+                            "text": "coding",
+                            "indices": [
+                                74,
+                                81
+                            ]
+                        },
+                        {
+                            "text": "vuejs",
+                            "indices": [
+                                82,
+                                88
+                            ]
+                        },
+                        {
+                            "text": "appdev",
+                            "indices": [
+                                89,
+                                96
+                            ]
+                        },
+                        {
+                            "text": "angular",
+                            "indices": [
+                                97,
+                                105
+                            ]
+                        },
+                        {
+                            "text": "webdev",
+                            "indices": [
+                                106,
+                                113
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/J4sLwkaRAF",
+                            "expanded_url": "http://snip.ly/0aet4",
+                            "display_url": "snip.ly/0aet4",
+                            "indices": [
+                                29,
+                                52
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/TSRLxbdiux",
+                            "expanded_url": "https://twitter.com/i/web/status/875727190691901440",
+                            "display_url": "twitter.com/i/web/status/8…",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 70063158,
+                    "id_str": "70063158",
+                    "name": "TechJini",
+                    "screen_name": "techjini",
+                    "location": "India | USA | Japan",
+                    "description": "#Mobile | #Cloud | #IoT | #BigData | #AI | #web  We have it all.",
+                    "url": "http://t.co/COVmxAFdUq",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/COVmxAFdUq",
+                                    "expanded_url": "http://www.techjini.com",
+                                    "display_url": "techjini.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 869,
+                    "friends_count": 697,
+                    "listed_count": 629,
+                    "created_at": "Sun Aug 30 06:01:39 +0000 2009",
+                    "favourites_count": 270,
+                    "utc_offset": 19800,
+                    "time_zone": "New Delhi",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 3346,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/535406425443287041/5iC-7YOV_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/535406425443287041/5iC-7YOV_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/70063158/1465532930",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 5,
+                "favorite_count": 10,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:38:47 +0000 2017",
+            "id": 875739440794091521,
+            "id_str": "875739440794091521",
+            "text": "Building a #realtime #feed with Node.js and AMP #tutorials #nodejs #javascript #js #clientside #angularjs #reactjs #…https://t.co/fIzbuirnP3",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "realtime",
+                        "indices": [
+                            11,
+                            20
+                        ]
+                    },
+                    {
+                        "text": "feed",
+                        "indices": [
+                            21,
+                            26
+                        ]
+                    },
+                    {
+                        "text": "tutorials",
+                        "indices": [
+                            48,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            59,
+                            66
+                        ]
+                    },
+                    {
+                        "text": "javascript",
+                        "indices": [
+                            67,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "js",
+                        "indices": [
+                            79,
+                            82
+                        ]
+                    },
+                    {
+                        "text": "clientside",
+                        "indices": [
+                            83,
+                            94
+                        ]
+                    },
+                    {
+                        "text": "angularjs",
+                        "indices": [
+                            95,
+                            105
+                        ]
+                    },
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            106,
+                            114
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/fIzbuirnP3",
+                        "expanded_url": "https://lnkd.in/gkkcSXq",
+                        "display_url": "lnkd.in/gkkcSXq",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3004939712,
+                "id_str": "3004939712",
+                "name": "Nezir Zahirovic ಠ_ಠ",
+                "screen_name": "NezirZahirovic",
+                "location": "Sarajevo",
+                "description": "Full Stack Developer 11+ years (C#, #Asp.Net #Ruby On #Rails, #JavaScript #Frontend #SQL #jQuery #Android #Nodejs). RubyOnRails.BA JavaScript.BA",
+                "url": "http://t.co/QvLl2CCgK5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/QvLl2CCgK5",
+                                "expanded_url": "http://bosnia-aspnet.blogspot.com/",
+                                "display_url": "bosnia-aspnet.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 244,
+                "friends_count": 600,
+                "listed_count": 93,
+                "created_at": "Sat Jan 31 14:21:02 +0000 2015",
+                "favourites_count": 3484,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2636,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/836071458627432448/-AG3HqyB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/836071458627432448/-AG3HqyB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3004939712/1495817808",
+                "profile_link_color": "E64946",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:38:24 +0000 2017",
+            "id": 875739341556916224,
+            "id_str": "875739341556916224",
+            "text": "working on web app #reactjs",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            19,
+                            27
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 590648724,
+                "id_str": "590648724",
+                "name": "Irsyad Mhd Ilham",
+                "screen_name": "tokpaikong",
+                "location": "Puncak Alam",
+                "description": "Coding, Cooking, Gaming",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 144,
+                "friends_count": 118,
+                "listed_count": 2,
+                "created_at": "Sat May 26 03:49:56 +0000 2012",
+                "favourites_count": 420,
+                "utc_offset": 28800,
+                "time_zone": "Kuala Lumpur",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4151,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "080808",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/757509168/1a0b172a3303251cd4b950b5aa09c372.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/757509168/1a0b172a3303251cd4b950b5aa09c372.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/664598402898989056/XdlSAP5n_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/664598402898989056/XdlSAP5n_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/590648724/1484200821",
+                "profile_link_color": "00A89E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:34:26 +0000 2017",
+            "id": 875738344042487808,
+            "id_str": "875738344042487808",
+            "text": "The latest ReactJS Daily! https://t.co/oIdTWExK5O Thanks to @hoyylex @kkganesan @RobLL #reactjs #react",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "reactjs",
+                        "indices": [
+                            87,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "react",
+                        "indices": [
+                            96,
+                            102
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hoyylex",
+                        "name": "Dongho Yoo",
+                        "id": 121185224,
+                        "id_str": "121185224",
+                        "indices": [
+                            60,
+                            68
+                        ]
+                    },
+                    {
+                        "screen_name": "kkganesan",
+                        "name": "k2g",
+                        "id": 9253752,
+                        "id_str": "9253752",
+                        "indices": [
+                            69,
+                            79
+                        ]
+                    },
+                    {
+                        "screen_name": "RobLL",
+                        "name": "Rob",
+                        "id": 21204064,
+                        "id_str": "21204064",
+                        "indices": [
+                            80,
+                            86
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/oIdTWExK5O",
+                        "expanded_url": "http://paper.li/ambroselittle/1490628861?edition_id=46ded9d0-52a9-11e7-b4c4-0cc47a0d1605",
+                        "display_url": "paper.li/ambroselittle/…",
+                        "indices": [
+                            26,
+                            49
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 10696752,
+                "id_str": "10696752",
+                "name": "Ambrose Little",
+                "screen_name": "ambroselittle",
+                "location": "Central NJ, USA",
+                "description": "Experienced software and UX guy. Senior Software Developer @CentralReach. Author. Husband. Father of 6. Armchair Philosopher.",
+                "url": "https://t.co/iXNibpvmAv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/iXNibpvmAv",
+                                "expanded_url": "http://www.ambroselittle.com",
+                                "display_url": "ambroselittle.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2662,
+                "friends_count": 1883,
+                "listed_count": 213,
+                "created_at": "Thu Nov 29 03:36:36 +0000 2007",
+                "favourites_count": 65,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 18226,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621806612/z3lmyrs17g5v7xc19qhp.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621806612/z3lmyrs17g5v7xc19qhp.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/860588580070182912/90UiVMwP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/860588580070182912/90UiVMwP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10696752/1483461588",
+                "profile_link_color": "1691D7",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:34:25 +0000 2017",
+            "id": 875738340032729089,
+            "id_str": "875738340032729089",
+            "text": "@wonderboymusic @reactjs @GraphQL That is *awesome* - interested in the how/why for both. 🤔\n\nYou should connect wit… https://t.co/H7x8KHQHuj",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wonderboymusic",
+                        "name": "Scott Taylor ⛵️",
+                        "id": 15473031,
+                        "id_str": "15473031",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "reactjs",
+                        "name": "React",
+                        "id": 1566463268,
+                        "id_str": "1566463268",
+                        "indices": [
+                            16,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "GraphQL",
+                        "name": "GraphQL",
+                        "id": 2963091971,
+                        "id_str": "2963091971",
+                        "indices": [
+                            25,
+                            33
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/H7x8KHQHuj",
+                        "expanded_url": "https://twitter.com/i/web/status/875738340032729089",
+                        "display_url": "twitter.com/i/web/status/8…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 875006245190684673,
+            "in_reply_to_status_id_str": "875006245190684673",
+            "in_reply_to_user_id": 15473031,
+            "in_reply_to_user_id_str": "15473031",
+            "in_reply_to_screen_name": "wonderboymusic",
+            "user": {
+                "id": 622960227,
+                "id_str": "622960227",
+                "name": "Tierney Cyren",
+                "screen_name": "bitandbang",
+                "location": "Little Falls, NY, USA",
+                "description": "⬡.js - Developer Advocate at @NodeSource. Evangelism + Website Working Groups for @nodejs. @pacabites, my boo. Want to talk? Happy to DM. ❤️",
+                "url": "https://t.co/nPKMojM1Ev",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nPKMojM1Ev",
+                                "expanded_url": "http://bnb.im",
+                                "display_url": "bnb.im",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 659,
+                "friends_count": 277,
+                "listed_count": 91,
+                "created_at": "Sat Jun 30 14:57:31 +0000 2012",
+                "favourites_count": 6608,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5980,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FA743E",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607281397322137600/DmrRZtK3.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607281397322137600/DmrRZtK3.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/814909403937705984/bGG4UIbD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/814909403937705984/bGG4UIbD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/622960227/1479595892",
+                "profile_link_color": "5AC878",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:33:06 +0000 2017",
+            "id": 875738011123810304,
+            "id_str": "875738011123810304",
+            "text": "RT @ReactJS_News: Top #Develop How to Setup a React Environment Using Webpack and Babel https://t.co/kxY4YbMVIG via @Andela #ai https://t.c…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Develop",
+                        "indices": [
+                            22,
+                            30
+                        ]
+                    },
+                    {
+                        "text": "ai",
+                        "indices": [
+                            124,
+                            127
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ReactJS_News",
+                        "name": "ReactJS News",
+                        "id": 622262193,
+                        "id_str": "622262193",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "Andela",
+                        "name": "Andela",
+                        "id": 1378315837,
+                        "id_str": "1378315837",
+                        "indices": [
+                            116,
+                            123
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/kxY4YbMVIG",
+                        "expanded_url": "https://react.jsnews.io/having-a-hard-time-setting-up-a-reactjs-environment-luckily-for-you-karejoy-has-it-covered-in-this-tutorial/",
+                        "display_url": "react.jsnews.io/having-a-hard-…",
+                        "indices": [
+                            88,
+                            111
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 339211042,
+                "id_str": "339211042",
+                "name": "Rotimi Okungbaye",
+                "screen_name": "rotimiokungbaye",
+                "location": "Lagos, Nigeria",
+                "description": "Photographer @rotimishotit | Media Intern @andela | Evangelist @Andela_Nigeria | Writer: https://t.co/S61xImKLsn… | IG/SC: @rotimiokungbaye",
+                "url": "https://t.co/QWKkl5Gf0B",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/QWKkl5Gf0B",
+                                "expanded_url": "http://www.rotimiokungbaye.com",
+                                "display_url": "rotimiokungbaye.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/S61xImKLsn",
+                                "expanded_url": "http://medium.com/@rotimiokungba",
+                                "display_url": "medium.com/@rotimiokungba",
+                                "indices": [
+                                    89,
+                                    112
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3398,
+                "friends_count": 1237,
+                "listed_count": 162,
+                "created_at": "Wed Jul 20 19:11:09 +0000 2011",
+                "favourites_count": 32831,
+                "utc_offset": 3600,
+                "time_zone": "West Central Africa",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 71072,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/870355943426600961/B74VfZ6d_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/870355943426600961/B74VfZ6d_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/339211042/1496496678",
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jun 15 06:43:02 +0000 2017",
+                "id": 875242226787524610,
+                "id_str": "875242226787524610",
+                "text": "Top #Develop How to Setup a React Environment Using Webpack and Babel https://t.co/kxY4YbMVIG via @Andela #ai https://t.co/FLMzeUlA7X",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Develop",
+                            "indices": [
+                                4,
+                                12
+                            ]
+                        },
+                        {
+                            "text": "ai",
+                            "indices": [
+                                106,
+                                109
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Andela",
+                            "name": "Andela",
+                            "id": 1378315837,
+                            "id_str": "1378315837",
+                            "indices": [
+                                98,
+                                105
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/kxY4YbMVIG",
+                            "expanded_url": "https://react.jsnews.io/having-a-hard-time-setting-up-a-reactjs-environment-luckily-for-you-karejoy-has-it-covered-in-this-tutorial/",
+                            "display_url": "react.jsnews.io/having-a-hard-…",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 875242224526733313,
+                            "id_str": "875242224526733313",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DCV8Kn1WsAEvFgE.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DCV8Kn1WsAEvFgE.jpg",
+                            "url": "https://t.co/FLMzeUlA7X",
+                            "display_url": "pic.twitter.com/FLMzeUlA7X",
+                            "expanded_url": "https://twitter.com/ReactJS_News/status/875242226787524610/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 676,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1300,
+                                    "h": 732,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 875242224526733313,
+                            "id_str": "875242224526733313",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DCV8Kn1WsAEvFgE.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DCV8Kn1WsAEvFgE.jpg",
+                            "url": "https://t.co/FLMzeUlA7X",
+                            "display_url": "pic.twitter.com/FLMzeUlA7X",
+                            "expanded_url": "https://twitter.com/ReactJS_News/status/875242226787524610/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 676,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1300,
+                                    "h": 732,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://huginn-muninn.herokuapp.com\" rel=\"nofollow\">huginn-muninn</a>",
+                "in_reply_to_status_id": 874725307462365189,
+                "in_reply_to_status_id_str": "874725307462365189",
+                "in_reply_to_user_id": 1378315837,
+                "in_reply_to_user_id_str": "1378315837",
+                "in_reply_to_screen_name": "Andela",
+                "user": {
+                    "id": 622262193,
+                    "id_str": "622262193",
+                    "name": "ReactJS News",
+                    "screen_name": "ReactJS_News",
+                    "location": "",
+                    "description": "#ReactJS and React Native Stories for JavaScript Web Architects, Builders, Ninjas and the like. Also checkout @AngularJS_News.",
+                    "url": "https://t.co/gzblCC6K4Z",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/gzblCC6K4Z",
+                                    "expanded_url": "https://react.jsnews.io",
+                                    "display_url": "react.jsnews.io",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 23668,
+                    "friends_count": 25,
+                    "listed_count": 1192,
+                    "created_at": "Fri Jun 29 19:43:17 +0000 2012",
+                    "favourites_count": 28406,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 28760,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_normal.png",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jun 16 15:32:29 +0000 2017",
+            "id": 875737854059720705,
+            "id_str": "875737854059720705",
+            "text": "RT @angularjobs: Apply Now: Angular / Django Tech Lead &gt; https://t.co/4KZl3Pu5uh #typescript https://t.co/hxnefE6kW2",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "typescript",
+                        "indices": [
+                            84,
+                            95
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "angularjobs",
+                        "name": "AngularJobs.com",
+                        "id": 790510992,
+                        "id_str": "790510992",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/4KZl3Pu5uh",
+                        "expanded_url": "https://angularjobs.com/job/angular-django-tech-lead/",
+                        "display_url": "angularjobs.com/job/angular-dj…",
+                        "indices": [
+                            60,
+                            83
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 875737384578691072,
+                        "id_str": "875737384578691072",
+                        "indices": [
+                            96,
+                            119
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                        "url": "https://t.co/hxnefE6kW2",
+                        "display_url": "pic.twitter.com/hxnefE6kW2",
+                        "expanded_url": "https://twitter.com/angularjobs/status/875737387686666240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 875737387686666240,
+                        "source_status_id_str": "875737387686666240",
+                        "source_user_id": 790510992,
+                        "source_user_id_str": "790510992"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 875737384578691072,
+                        "id_str": "875737384578691072",
+                        "indices": [
+                            96,
+                            119
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                        "url": "https://t.co/hxnefE6kW2",
+                        "display_url": "pic.twitter.com/hxnefE6kW2",
+                        "expanded_url": "https://twitter.com/angularjobs/status/875737387686666240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 875737387686666240,
+                        "source_status_id_str": "875737387686666240",
+                        "source_user_id": 790510992,
+                        "source_user_id_str": "790510992"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://huginn-muninn.herokuapp.com\" rel=\"nofollow\">huginn-muninn</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 622262193,
+                "id_str": "622262193",
+                "name": "ReactJS News",
+                "screen_name": "ReactJS_News",
+                "location": "",
+                "description": "#ReactJS and React Native Stories for JavaScript Web Architects, Builders, Ninjas and the like. Also checkout @AngularJS_News.",
+                "url": "https://t.co/gzblCC6K4Z",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gzblCC6K4Z",
+                                "expanded_url": "https://react.jsnews.io",
+                                "display_url": "react.jsnews.io",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 23668,
+                "friends_count": 25,
+                "listed_count": 1192,
+                "created_at": "Fri Jun 29 19:43:17 +0000 2012",
+                "favourites_count": 28406,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 28760,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/649953464332632064/Gl_eu1Ws_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 16 15:30:38 +0000 2017",
+                "id": 875737387686666240,
+                "id_str": "875737387686666240",
+                "text": "Apply Now: Angular / Django Tech Lead &gt; https://t.co/4KZl3Pu5uh #typescript https://t.co/hxnefE6kW2",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "typescript",
+                            "indices": [
+                                67,
+                                78
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/4KZl3Pu5uh",
+                            "expanded_url": "https://angularjobs.com/job/angular-django-tech-lead/",
+                            "display_url": "angularjobs.com/job/angular-dj…",
+                            "indices": [
+                                43,
+                                66
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 875737384578691072,
+                            "id_str": "875737384578691072",
+                            "indices": [
+                                79,
+                                102
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                            "url": "https://t.co/hxnefE6kW2",
+                            "display_url": "pic.twitter.com/hxnefE6kW2",
+                            "expanded_url": "https://twitter.com/angularjobs/status/875737387686666240/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 340,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 875737384578691072,
+                            "id_str": "875737384578691072",
+                            "indices": [
+                                79,
+                                102
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DCc-guxXsAAZ3s3.jpg",
+                            "url": "https://t.co/hxnefE6kW2",
+                            "display_url": "pic.twitter.com/hxnefE6kW2",
+                            "expanded_url": "https://twitter.com/angularjobs/status/875737387686666240/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 340,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://huginn-muninn.herokuapp.com\" rel=\"nofollow\">huginn-muninn</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 790510992,
+                    "id_str": "790510992",
+                    "name": "AngularJobs.com",
+                    "screen_name": "angularjobs",
+                    "location": "San Francisco, CA",
+                    "description": "#1 in Angular Jobs. Architects, Developers & Engineers Get Hired. JavaScript Candidates & Resumes. Also @AngularJS_News & @ReactJS_News #Angular2 #AngularJS",
+                    "url": "https://t.co/o0kY4n0SsY",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/o0kY4n0SsY",
+                                    "expanded_url": "https://AngularJobs.com",
+                                    "display_url": "AngularJobs.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 18057,
+                    "friends_count": 3,
+                    "listed_count": 558,
+                    "created_at": "Thu Aug 30 01:10:40 +0000 2012",
+                    "favourites_count": 41682,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 24340,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "EBEBEB",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/789101042373918720/SJLs5nRc_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/789101042373918720/SJLs5nRc_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/790510992/1477074563",
+                    "profile_link_color": "990000",
+                    "profile_sidebar_border_color": "DFDFDF",
+                    "profile_sidebar_fill_color": "F3F3F3",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.065,
+        "max_id": 875742282774978561,
+        "max_id_str": "875742282774978561",
+        "next_results": "?max_id=875737854059720704&q=reactjs&include_entities=1",
+        "query": "reactjs",
+        "refresh_url": "?since_id=875742282774978561&q=reactjs&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
