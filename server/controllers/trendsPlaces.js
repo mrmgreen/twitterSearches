@@ -3,12 +3,12 @@ const nonce = require('nonce')();
 const moment = require('moment');
 
 module.exports = (req,res) => {
-  const { searchTerm } = req.params
+  const { woid } = req.params
 
-  function getSearchResults() {
+  function getTrendsPlacesResults() {
     return new Promise((resolve,reject) => {
       const timestamp = moment.utc().unix();
-      const url = "https://api.twitter.com/1.1/search/tweets.json";
+      const url = "https://api.twitter.com/1.1/trends/place.json";
       const oauth = {
         consumer_key: process.env.TWITTER_CONSUMER_KEY,
         consumer_secret:process.env.TWITTER_CONSUMER_SECRET,
@@ -17,17 +17,17 @@ module.exports = (req,res) => {
         timestamp,
         nonce: nonce(),
       }
-      const searchTermEncoded = encodeURI(searchTerm);
+      const woidEncoded = encodeURI(woid);
 
       requestMiddleware({
         url,
         oauth,
         qs: {
-          q: searchTermEncoded,
+          id: woidEncoded,
         },
       }, (error, response, body) => {
         if (error) {
-          console.error('getSearchResults in get request', error);
+          console.error('getTrendsPlacesResults in get request', error);
           reject(error);
         } else if (response.statusCode == 200){
           console.log('status is 200');
@@ -39,12 +39,12 @@ module.exports = (req,res) => {
       })
     });
   }
-  getSearchResults().then((result) => {
+  getTrendsPlacesResults().then((result) => {
     console.log('result is ===', result);
     return res.send(result);
   })
   .catch((err) => {
     console.log('errrrr', err);
   });
-  console.log('searchTerm ===', searchTerm);
+  console.log('woid ===', woid);
 }

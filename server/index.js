@@ -1,13 +1,12 @@
 const express = require('express');
-const bodyParser = require('body-parser');
 
 const port = 8080;
 const app = express();
 
-const searchController = require('./controllers/search');
+const { setupRoutes, setupMiddleware } = require('./routes');
 
-app.use(bodyParser.json());
-app.get('/search/:searchTerm', searchController);
+setupMiddleware(app);
+setupRoutes(app);
 
 app.listen(port, (req, res) => {
   console.log(`Listening on port ${port}`);
