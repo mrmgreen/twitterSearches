@@ -1,14 +1,17 @@
+import React from 'react';
+import * as d3 from 'd3';
+
 const barChart = () => {
   const dataset = [ 5, 10, 14 ];
   const w = 500;
   const h = 100;
 
-const svg = d3.select('#root')
+d3.select('#barChartDiv')
     .append('svg')
     .attr('width', w)
     .attr('height', h);
 
-  svg.selectAll('rect')
+  d3.select('#barChartDiv svg').selectAll('rect')
     .data(dataset)
     .enter()
     .append('rect')
@@ -18,4 +21,4 @@ const svg = d3.select('#root')
     .attr('height', 100);
 };
 
-barChart();
+export default barChart;
