@@ -1,7 +1,6 @@
-const w = 500;
-const h = 100;
-
 const barChart = () => {
+  const w = 500;
+  const h = 100;
   const dataset = [ 5, 10, 13, 19, 21, 25, 22, 18, 15, 13,
                 11, 12, 15, 20, 18, 17, 16, 18, 23, 25 ];
   const barHeight = 100;
@@ -36,19 +35,18 @@ const svg = d3.select('#barChart')
 };
 
 function scatterPlot() {
-  const padding = 20;
-  const dataset = [
-                  [ 5,     20 ],
-                  [ 480,   90 ],
-                  [ 250,   50 ],
-                  [ 100,   33 ],
-                  [ 330,   95 ],
-                  [ 410,   12 ],
-                  [ 475,   44 ],
-                  [ 25,    67 ],
-                  [ 85,    21 ],
-                  [ 220,   88 ]
-              ];
+  const w = 500;
+  const h = 300;
+  const padding = 30;
+  const dataset = [];
+  const numDataPoints = 50;
+  const xRange = Math.random() * 1000;
+  const yRange = Math.random() * 1000;
+  for (let i = 0; i < numDataPoints; i++) {
+    let newNum1 = Math.round(Math.random() * xRange);
+    let newNum2 = Math.round(Math.random() * yRange);
+    dataset.push([newNum1, newNum2]);
+  }
 
   const xScale = d3.scaleLinear()
     .domain([0, d3.max(dataset, d => d[0])])
@@ -61,6 +59,12 @@ function scatterPlot() {
   const rScale = d3.scaleLinear()
     .domain([0, d3.max(dataset, d => d[1])])
     .range([2, 5]);
+
+  const xAxis = d3.axisBottom(xScale)
+    .ticks(5);
+
+  const yAxis = d3.axisLeft(yScale)
+    .ticks(5);
 
   const svg = d3.select('#scatterPlot')
   .append('svg')
@@ -85,6 +89,16 @@ function scatterPlot() {
       .attr('font-family', 'sans-serif')
       .attr('font-size', '11px')
       .attr('fill', 'red');
+
+  svg.append('g')
+    .attr('class', 'axis')
+    .attr('transform', 'translate(0,' + (h - padding) + ' )')
+    .call(xAxis);
+
+  svg.append('g')
+    .attr('class', 'axis')
+    .attr('transform', 'translate(' + padding + ', 0 )')
+    .call(yAxis);
 }
 
 barChart();
