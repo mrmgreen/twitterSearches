@@ -8,6 +8,7 @@ const trendsPlacesController = require('.././controllers/trendsPlaces');
 
 function setupMiddleware(app) {
   app.use(bodyParser.json());
+  app.use(express.static(path.join(__dirname, '../../dist')));
   app.use(express.static(path.join(__dirname, '../../client')));
 }
 
