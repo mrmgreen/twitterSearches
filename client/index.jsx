@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import createHistory from 'history/createBrowserHistory';
 import { ConnectedRouter } from 'react-router-redux';
 
-import Root from './js/Root';
+import Root from './js/components/Root';
 import setupStore from './js/setupStore';
 
 const history = createHistory();

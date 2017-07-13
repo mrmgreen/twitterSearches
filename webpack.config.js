@@ -7,6 +7,7 @@ module.exports = {
   context: __dirname,
   devtool: 'inline-source-map',
   entry: [
+    'webpack-hot-middleware/client',
     './client/index.jsx',
   ],
   output: {
@@ -15,7 +16,7 @@ module.exports = {
     publicPath: '/bundle',
   },
   resolve: {
-    extensions: ['.jsx', '.scss', '.js', '.json'],
+    extensions: ['.jsx', '.scss', 'css', '.js', '.json'],
   },
   module: {
     rules: [

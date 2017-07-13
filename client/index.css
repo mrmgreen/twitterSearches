@@ -1,0 +1,21 @@
+form > input[type="text"] {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 6px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 16px;
+}
+
+button {
+  padding: 20px;
+  font-size: 16px;
+  background: ghostwhite;
+  color: black;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #dbf2fd;
+}

@@ -1,5 +1,5 @@
 const search = require('./twitter/search.json');
-const trendsPlaces = require('./twitter/trendsPlaces.json');
+const trendsPlaces = require('./twitter/trends/places.json');
 
 function router(url) {
   const searchUrl = "https://api.twitter.com/1.1/search/tweets.json";
