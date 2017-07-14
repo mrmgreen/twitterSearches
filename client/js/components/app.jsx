@@ -14,6 +14,9 @@ class formComponent extends React.Component {
   }
 
   parseTextInput = (searchTerm) => {
+    if (searchTerm === '') {
+      return true;
+    }
     const regEx = /^\w+$/;
     return regEx.test(searchTerm);
   }
